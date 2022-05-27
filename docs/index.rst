@@ -10,6 +10,7 @@ Welcome to SSE Docs Walkthrough's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   user-guide
 
 
 Indices and tables
